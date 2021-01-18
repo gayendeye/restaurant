@@ -1,0 +1,9 @@
+#index:
+    #path: /{index}
+    #controller: App\Controller\BlogController::index
+
+
+
+#contacts:
+   #path: /{Contacts}
+    #controller: App\Controller\BlogController::contacts
